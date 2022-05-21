@@ -12,6 +12,7 @@ $ chmod +x ./get-certs.sh
 $ ./get-certs.sh
 ```
 ### testing
+Node.js must be installed.
 ```sh
 $ node simple_server.js
 ```
