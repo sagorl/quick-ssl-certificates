@@ -14,6 +14,6 @@ $ ./get-certs.sh
 ### testing
 Node.js must be installed.
 ```sh
-$ node simple_server.js
+$ node quick_server.js
 ```
 After myCA.pem is imported in a browser as Certificate Authority the https://localhost:8443 will be available through https.
